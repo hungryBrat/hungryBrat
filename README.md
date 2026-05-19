@@ -7,6 +7,7 @@ EnI undergrad · BITS Pilani · class of 2028
 
 ![Profile views](https://komarev.com/ghpvc/?username=hungryBrat&label=profile%20views&color=0e75b6&style=flat)
 [![Gmail](https://img.shields.io/badge/-shaurya07agush%40gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shaurya07agush@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Shaurya%20Agarwal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-agarwal-201455323/)
 [![GitHub](https://img.shields.io/badge/-hungryBrat-181717?style=flat&logo=github&logoColor=white)](https://github.com/hungryBrat)
 
 </div>
@@ -81,7 +82,7 @@ Ubuntu 22.04 + ROS 2 Humble on a Pi 4. ESP32 running micro-ROS as the motor cont
 ### Outside the terminal
 
 <!-- swap this line for something true to you -->
-I read more than is strictly defensible for an engineer, and I think the right book at the right time has saved more of my projects than any debugger.
+I read more than is strictly defensible for an engineer, click and videograph with a unique lens, design posters and consume art. And when the NP-Hard burns me out, I cool down with boxing.
 
 ---
 
