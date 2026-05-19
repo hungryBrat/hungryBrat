@@ -3,7 +3,7 @@
 # Shaurya Agarwal
 
 **Building robots that move on their own.**
-ECE undergrad · BITS Pilani · class of 2028
+EnI undergrad · BITS Pilani · class of 2028
 
 ![Profile views](https://komarev.com/ghpvc/?username=hungryBrat&label=profile%20views&color=0e75b6&style=flat)
 [![Gmail](https://img.shields.io/badge/-shaurya07agush%40gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shaurya07agush@gmail.com)
@@ -13,13 +13,13 @@ ECE undergrad · BITS Pilani · class of 2028
 
 ---
 
-Most of my work lives somewhere between a soldering iron and a ROS launch file — kinematics through perception, motor characterization through map building. I like projects where the firmware, the control loop, and the chassis are all my problem.
+Most of my work lives somewhere between a soldering iron and a ROS launch file: kinematics through perception, motor characterization through map building. I like projects where the firmware, the control loop, and the chassis are all my problem.
 
 ---
 
 ### Currently building
 
-**Solo** — a differential-drive autonomous mobile robot, ground up.
+**Solo** - a differential-drive autonomous mobile robot, ground up.
 Ubuntu 22.04 + ROS 2 Humble on a Pi 4. ESP32 running micro-ROS as the motor controller. RPLidar A1 and BNO055 IMU on top of a Linorobot2 reference base. The build is phase-gated: each phase ships a video demo and has to clear written gate criteria before the next one starts, so every commit on `main` corresponds to something that actually worked on hardware.
 
 ---
