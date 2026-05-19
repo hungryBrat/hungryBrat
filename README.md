@@ -71,10 +71,7 @@ Ubuntu 22.04 + ROS 2 Humble on a Pi 4. ESP32 running micro-ROS as the motor cont
 <div align="center">
 
 <a href="https://github.com/hungryBrat">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hungryBrat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=issues,prs&card_width=440" />
-</a>
-<a href="https://github.com/hungryBrat">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungryBrat&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=club-task-html-salesforce,html-mmt,test-14-11-2024&langs_count=8&card_width=340" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hungryBrat&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Commits%20over%20time" alt="Activity graph" />
 </a>
 
 </div>
